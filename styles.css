@@ -1,0 +1,25 @@
+h1{
+    color:goldenrod
+}
+
+body{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("./images/Solid_green.svg.png");
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+#gameStart,#newCards{
+   
+    justify-content: center;
+    align-self: center;
+    background-color:goldenrod;
+    color: black;
+    width: 150px;
+    font-weight: bold;
+    padding: .5rem;
+    border: 1px black solid;
+    margin-bottom: .25rem;
+}
